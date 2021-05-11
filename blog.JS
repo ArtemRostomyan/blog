@@ -59,7 +59,7 @@
         "name": "Доказательство смерти",
         "description": "Каскадер Майк украдкой наблюдает за ними из своего автомобиля. Он любит быструю езду и не прочь подбросить до дома симпатичную девушку.",
         "images": [
-            "https://images.kinorium.com/movie/shot/417716/w1500_41526000.jpg"
+            "https://img3.goodfon.ru/original/1920x1408/8/d3/dokazatelstvo-smerti-film-3758.jpg"
         ]
     },
     {
